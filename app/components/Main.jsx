@@ -42,12 +42,12 @@ const Main = () => {
             LET'S WORK TOGETHER
           </p>
           <h1 className="py-4 text-gray-400">
-            Hi, I'm <span className="text-cyan-200">AC</span>
+            Hi, I'm <span className="text-cyan-200">Airish Christian</span>
           </h1>
-          <h1 className="py-2 text-gray-400">Network/Cybersecurity Engineer</h1>
+          <h1 className="py-2 text-gray-400">Tech Enthusiast</h1>
           <p className="py-4 text-gray-400 max-w-70% m-auto">
             I am a seasoned Electronics Engineer who specializes in
-            Telecommunications, Networking and Cybersecurity.
+            Telecommunications, Data Analysis and Software Development.
           </p>
         </div>
       </div>
